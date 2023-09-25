@@ -1,6 +1,6 @@
 *{
-    margin: 150;
-    padding: 50;
+    margin: 0;
+    padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -20,7 +20,9 @@ body {
 .nocontainer {
     color: #ffffff;
     text-align: center;
-    margin: 30;
+    width: 70%;
+   margin: 0 auto;
+display: block;
 }
 
 .background {
