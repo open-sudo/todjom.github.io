@@ -17,6 +17,10 @@ body {
     text-transform: uppercase;
     text-align: center;
 }
+.nocontainer {
+    color: #ffffff;
+    text-align: center;
+}
 
 .background {
     width: 100%;
